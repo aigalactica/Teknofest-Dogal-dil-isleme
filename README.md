@@ -1,1 +1,1 @@
-# Teknofest-T-rk-e-Do-al-Dil-i-leme
+# Teknofest-Türkçe Doğal Dil İşleme
