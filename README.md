@@ -15,7 +15,7 @@ Projemizin yenilikçi ve özgün yönü: geniş Türkçe veri setlerinden duygus
 <br>
 
 Projedeki metodumuz:Sosyal medya platformlarından, özellikle YouTube'dan veri toplanarak geniş bir veri seti oluşturulacak ve veriler, Robert Plutchik'in Duygu Çarkı'ndaki temel duygulara göre kategorize edilecektir. Veri seti hazırlandıktan sonra, kayıp verilerin doldurulması, tekrarlanan ve ilgisiz verilerin temizlenmesi, büyük/küçük harf dönüşümleri, anlamsız karakterlerin (sayılar, emotikonlar, noktalama işaretleri ve alfanümerik karakterler) temizlenmesi, etkisiz kelimelerin (stopwords) çıkarılması ve kelimelerin köklerine ayrılması gibi ön işleme işlemleri yapılacaktır. Kelime gömme (word embedding) teknikleri kullanılarak model performansının artırılması hedeflenmektedir. 
-Bu aşamadan sonra, geleneksel makine öğrenmesi ve derin öğrenme algoritmaları ile duygusal içeriklerin analiz edilmesi planlanmaktadır. Modellerin performansı, accuracy, f1-score, precision, recall ve MSE gibi metriklerle değerlendirilecek ve sonuçlar tablolar halinde karşılaştırılacaktır. Bu yöntemlerle, projemiz Türkçe Doğal Dil İşleme alanında yenilikçi ve özgün katkılar sağlamayı amaçlamaktadır.
+Bu aşamadan sonra, geleneksel makine öğrenmesi ve derin öğrenme algoritmaları ile duygusal içeriklerin analiz edilmesi planlanmaktadır.Ayrica veri seçtiğimiz Büyük Dil Modelleriyle de test edilecektir. Modellerin performansı, accuracy, f1-score, precision, recall ve MSE gibi metriklerle değerlendirilecek ve sonuçlar tablolar halinde karşılaştırılacaktır. Bu yöntemlerle, projemiz Türkçe Doğal Dil İşleme alanında yenilikçi ve özgün katkılar sağlamayı amaçlamaktadır.
 
 
 
