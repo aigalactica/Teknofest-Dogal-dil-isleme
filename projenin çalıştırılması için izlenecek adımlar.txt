@@ -2,8 +2,7 @@
 
 2) https://colab.google/ üzerinden bir colab hesabı açın
 
-3) https://github.com/aigalactica/Teknofest-Dogal-dil-isleme adresindeki "word embedding-Makine öğrenmesi Algoritmaları" veya "Large Language Models(Buyuk Dil Modelleri)" klasörlerindeki model kodlarını indirin ve istediğiniz yapay zeka modeli için colab üzerinden not defteri olarak yükleyin.
+3) https://github.com/aigalactica/Teknofest-Dogal-dil-isleme adresindeki "word embedding-Makine öğrenmesi Algoritmaları" veya "Large Language Models(Buyuk Dil Modelleri)" klasörlerindeki model kodlarını indirin ve istediğiniz yapay zeka modeli için colab üzerinden not defteri olarak yükleyin(.ipynb nosyaları direkt olarak colab not defteri olarak yüklenmektedir, .py uzantılı dosyaların içindeki kodlar yeni colab not defteri içerisine kopyala-yapıştır yapılarak çalıştırılabilinir).
 
-4) İndirdiğiniz veri setini colab üzerinden açtığınız model kodlarının bulunduğu not defterine sol taraftan yükleyin.
-
+4) İndirdiğiniz "ham veri seti 6x3000" veri setini colab üzerinden açtığınız model kodlarının bulunduğu not defterine sol tarafta bulunan files/sample_data klasörü içerisine yükleyin.
 5) Veri setinin yolunu kopyalayıp model kodu içine veri seti yolunu yapıştırın ve kodu çalıştırın.
