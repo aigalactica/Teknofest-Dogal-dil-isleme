@@ -1,0 +1,5 @@
+Projenin Çalıştırılması için Gerekli Tüm Bağlılıkların Eksiksiz Listesi
+
+1) İnternet bağlantısı olan herhangi bir bilgisayar
+2) Google COLAB hesabı
+3) "https://github.com/aigalactica/Teknofest-Dogal-dil-isleme" adresi üzerinden yüklenecek veri seti dosyası ve kod dosyaları
